@@ -1,3 +1,3 @@
-module github.com/congziqi/moduleTest
+module github.com/congziqi77/go-modoule-stu
 
 go 1.18
